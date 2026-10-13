@@ -1,0 +1,1 @@
+"""Core pipeline logic for indie-game-ai-forge."""
